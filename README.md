@@ -1,2 +1,9 @@
 # code
-This is a list of code that I have written in multiple programming languages
+
+javascripts/          ## random javascripts code
+
+python / exploits /   ## exploits  written in python
+
+                  py3-39739 : Misfortune Cookie Exploit (RomPager <= 4.34) router authentication remove .
+                  URL: https://www.exploit-db.com/exploits/39739
+                  Notes: I modified the exploit to work for python 3.x 
