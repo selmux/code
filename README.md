@@ -15,3 +15,12 @@ python / exploits /   ## exploits  written in python
                   py3-44693 : Siemens SIMATIC S7-1500 CPU - Remote Denial of Service
                   URL: https://www.exploit-db.com/exploits/44693
                   Notes: I re-formated the code and modified the exploit to work for python 3.x
+
+python / tools /   ## tools  written in python
+
+                  icsfinder.py : This tool checks for open ICS ports for a given host .
+                  Author: Sulaiman Alhasawi
+                  
+                  
+                  icsfinder-v3.py : This tool checks for open ICS ports for a given host .
+                  Note: I modified the tool to work for python 3.x
